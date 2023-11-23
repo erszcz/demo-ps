@@ -255,7 +255,7 @@ let additions =
           , "prelude"
           , "effect"
           ]
-        , version = "afbfa4e7a13c0d55609ff144d49982563fada7f5"
+        , version = "942c83992e58b80fbb68a299eca9d09c62d4743c"
         }
       , erl-pinto =
         { repo = "https://github.com/id3as/purescript-erl-pinto.git"
